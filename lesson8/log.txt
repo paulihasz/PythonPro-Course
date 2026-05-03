@@ -1,0 +1,8 @@
+ZeroDivisionError: niepoprawne dzia�anie dzielenia przez 0
+ZeroDivisionError: niepoprawne działanie dzielenia przez 0
+ZeroDivisionError: niepoprawne działanie dzielenia przez 0
+ValueError: could not convert string to float: '-'
+ValueError: could not convert string to float: '*'
+ValueError: could not convert string to float: ','
+ValueError: could not convert string to float: 'a'
+ValueError: could not convert string to float: 'k'
